@@ -30,6 +30,7 @@ I appreciate any feedback you have! If you have requests, feel free to open an i
 Love this vault setup? You can support my work by grabbing me a [coffee](https://buymeacoffee.com/dusk_was_here). Thank you! ☕️
 
 ## Screenshots
+![0](Media/demo.gif)
 ![1](Media/1.png)
 ![2](Media/2.png)
 ![3](Media/3.png)
