@@ -23,7 +23,7 @@ Built for growth, this structure adapts as your knowledge and projects evolve!
 - two `.zip` files are available, one contains a **populated vault** and the other one is an **empty vault** ready for use.
 - Concept Inspiration and Reference can be found inside the vault.
 ## Feedback and Requests
-I appreciate any feedback you have! If you have requests, feel free to open an issue on GitHub or reach out to me directly on Discord. Your insights help make this vault even better for everyone—thanks for being a part of it!
+I appreciate any feedback you have! If you have requests, feel free to open an issue on GitHub or reach out to me directly on Discord (@dusk2681).
 
 ---
 
