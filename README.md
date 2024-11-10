@@ -1,3 +1,8 @@
+## WOrking on it
+- [ ] light version of the vault (to only plugins used for the core functionalities)
+- [ ] mobile display compatibility
+- [ ] better documentation
+
 ## Vault Structure
 This vault fuses **PARA** and **Zettelkasten** frameworks for a dynamic, scalable knowledge system.
 - **HUB**: Central command with a homepage, map, and inbox for seamless navigation and task tracking.
