@@ -1,4 +1,4 @@
-## WOrking on it
+## Working on it
 - [ ] light version of the vault (to only plugins used for the core functionalities)
 - [ ] mobile display compatibility
 - [ ] better documentation
