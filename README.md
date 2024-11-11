@@ -1,4 +1,4 @@
-## Working on it
+## Working on it **(up in about 2 days)**
 - [ ] light version of the vault (only include plugins used for the core functionalities)
 - [ ] mobile display compatibility
 - [ ] better documentation
