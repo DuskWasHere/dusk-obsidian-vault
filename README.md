@@ -1,7 +1,7 @@
-## Working on it **(up in about 2 days)**
-- [ ] light version of the vault (only include plugins used for the core functionalities)
-- [ ] mobile display compatibility
-- [ ] better documentation
+## Recent Updates:
+- [x] light version of the vault (only include plugins used for the core functionalities)
+- [x] mobile display compatibility
+- [x] better documentation
 
 ## Vault Structure
 This vault fuses **PARA** and **Zettelkasten** frameworks for a dynamic, scalable knowledge system.
@@ -14,6 +14,7 @@ This vault fuses **PARA** and **Zettelkasten** frameworks for a dynamic, scalabl
 
 Built for growth, this structure adapts as your knowledge and projects evolve!
 ## Vault Features
+- [x] **Mobile Friendly** - Compatible with mobile display
 - [x] **Homepage** - Enhanced homepage that allows quick navigation across the vault.
 - [x] **Map of Content** - Easily search notes with the help of Datacore.
 - [x] **Mail Box** - View completed and existing "Page Task" with the help of Datacore.
@@ -25,14 +26,14 @@ Built for growth, this structure adapts as your knowledge and projects evolve!
 - [x] **Hotkeys** - Convenient hotkey binding for common functionality.
 ## Additional Notes
 - Highly detailed vault documentation can be found inside the vault.
-- two `.zip` files are available, one contains a **populated vault** and the other one is an **empty vault** ready for use.
+- two `.zip` files are available for each vault type (`Dusk` and `Dusk_light`), one contains a **populated vault** and the other one is an **empty vault** ready for use.
 - Concept Inspiration and Reference can be found inside the vault.
 ## Feedback and Requests
 I appreciate any feedback you have! If you have requests, feel free to open an issue on GitHub or reach out to me directly on Discord (@dusk2681).
 
 ---
 
-Love this vault setup? You can support my work by grabbing me a [coffee](https://buymeacoffee.com/dusk_was_here). Thank you! ☕️
+Love this vault setup? You can show your support by grabbing me a [coffee](https://buymeacoffee.com/dusk_was_here). Thank you, and enjoy exploring — I hope this vault brings you inspiration! ☕️
 
 ## Demo
 ![0](Media/demo.gif)
@@ -41,3 +42,4 @@ Love this vault setup? You can support my work by grabbing me a [coffee](https:/
 ![2](Media/2.png)
 ![3](Media/3.png)
 ![4](Media/4.png)
+![5](Media/5.png)
