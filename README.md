@@ -44,3 +44,5 @@ Love this vault setup? You can show your support by grabbing me a [coffee](https
 ![3](Media/3.png)
 ![4](Media/4.png)
 ![5](Media/5.png)
+![6](Media/6.png)
+![7](Media/7.png)
