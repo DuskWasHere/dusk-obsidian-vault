@@ -1,7 +1,8 @@
 ## Recent Updates:
 - [x] light version of the vault (only include plugins used for the core functionalities)
-- [x] mobile display compatibility
+- [x] mobile display compatibility (for both versions)
 - [x] better documentation
+- [x] adjusted dataview layout 
 
 ## Vault Structure
 This vault fuses **PARA** and **Zettelkasten** frameworks for a dynamic, scalable knowledge system.
