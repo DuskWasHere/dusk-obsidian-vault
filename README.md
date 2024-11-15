@@ -3,7 +3,8 @@
 - [x] hotfix for monthly note template
 - [x] final version of documentation for vault concept map
 
-Note: If you have an older zip file (the version with light integration), simply copy the files from the update folder and paste them into their respective locations. However, please note that your documentation will remain outdated.
+Note: If you have an older zip file (the version with light integration) and you already have your files migrated, simply copy the files from the update folder and paste them into their respective locations. However, please note that your documentation will remain outdated.
+
 This will be the final update I push for this vault, as everything appears to be functioning correctly based on my testing.
 
 ## Vault Structure
