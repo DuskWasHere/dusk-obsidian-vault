@@ -2,8 +2,10 @@
 - [x] hotfix for area templates (area_family, area_note, area_note_sub)
 - [x] hotfix for monthly note template
 - [x] final version of documentation for vault concept map
-Note: if you have the older zip file (one with the light integration) you only need to paste the files in the update folder to their respective places (downside is that your documentations will be outdated)
-This will be the last change I will push for this vault, everything seems to be working fine from my testing.
+
+Note: If you have an older zip file (the version with light integration), simply copy the files from the update folder and paste them into their respective locations. However, please note that your documentation will remain outdated.
+This will be the final update I push for this vault, as everything appears to be functioning correctly based on my testing.
+
 ## Vault Structure
 This vault fuses **PARA** and **Zettelkasten** frameworks for a dynamic, scalable knowledge system.
 - **HUB**: Central command with a homepage, map, and inbox for seamless navigation and task tracking.
