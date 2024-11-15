@@ -1,9 +1,9 @@
 ## Recent Updates:
-- [x] light version of the vault (only include plugins used for the core functionalities)
-- [x] mobile display compatibility (for both versions)
-- [x] better documentation
-- [x] adjusted dataview layout 
-
+- [x] hotfix for area templates (area_family, area_note, area_note_sub)
+- [x] hotfix for monthly note template
+- [x] final version of documentation for vault concept map
+Note: if you have the older zip file (one with the light integration) you only need to paste the files in the update folder to their respective places (downside is that your documentations will be outdated)
+This will be the last change I will push for this vault, everything seems to be working fine from my testing.
 ## Vault Structure
 This vault fuses **PARA** and **Zettelkasten** frameworks for a dynamic, scalable knowledge system.
 - **HUB**: Central command with a homepage, map, and inbox for seamless navigation and task tracking.
