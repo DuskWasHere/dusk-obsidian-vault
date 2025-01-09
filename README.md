@@ -1,11 +1,12 @@
-## Recent Updates:
+## Highlight
+I am working on a vault update to enhance performance and improve workflows. Looking to have it up before January 25, 2025.
+
+## Recent Updates (November 16, 2024(+):
 - [x] hotfix for area templates (area_family, area_note, area_note_sub)
 - [x] hotfix for monthly note template
 - [x] final version of documentation for vault concept map
 
 Note: If you have an older zip file (the version with light integration) and you already have your files migrated, simply copy the files from the update folder and paste them into their respective locations. However, please note that your documentation will remain outdated.
-
-This will be the final update I push for this vault, as everything appears to be functioning correctly based on my testing.
 
 ## Vault Structure
 This vault fuses **PARA** and **Zettelkasten** frameworks for a dynamic, scalable knowledge system.
