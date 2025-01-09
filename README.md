@@ -1,7 +1,7 @@
 ## Highlight
 I am working on a vault update to enhance performance and improve workflows. Looking to have it up before January 25, 2025.
 
-## Recent Updates (November 16, 2024(+):
+## Recent Updates (November 16, 2024):
 - [x] hotfix for area templates (area_family, area_note, area_note_sub)
 - [x] hotfix for monthly note template
 - [x] final version of documentation for vault concept map
