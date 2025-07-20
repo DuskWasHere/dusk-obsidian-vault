@@ -24,6 +24,14 @@ For those interested in supporting ongoing development: **[Buy Me a Coffee](http
 
 ---
 
+## Legacy vs Current Version
+**Legacy (this repo):** Full vault system, PARA + Zettelkasten, all-in-one approach  
+**Current (Discord):** Modular components, faster performance, choose only what you need  
+
+The philosophy evolved from "here's everything" to "build exactly what you want."
+
+---
+
 ## Legacy Vault Documentation (v1)
 
 ### Recent Updates (November 16, 2024):
@@ -63,11 +71,6 @@ Built for growth, this structure adapts as your knowledge and projects evolve!
 - Concept Inspiration and Reference can be found inside the vault.
 - For current version and support: **[Discord](https://discord.gg/RTUTePmQt4)** | **[Buy Me a Coffee](https://buymeacoffee.com/dusk_was_here)**
 
-### Legacy vs Current Version
-**Legacy (this repo):** Full vault system, PARA + Zettelkasten, all-in-one approach  
-**Current (Discord):** Modular components, faster performance, choose only what you need  
-
-The philosophy evolved from "here's everything" to "build exactly what you want."
 
 ### Demo
 ![0](Media/demo.gif)
