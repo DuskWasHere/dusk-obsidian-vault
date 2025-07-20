@@ -22,11 +22,9 @@ For those interested in supporting ongoing development: **[Buy Me a Coffee](http
 
 **The documentation below references the legacy version only.**
 
----
-
-## Legacy vs Current Version
-**Legacy (this repo):** Full vault system, PARA + Zettelkasten, all-in-one approach  
-**Current (Discord):** Modular components, faster performance, choose only what you need  
+**Legacy vs Current Version**
+- **Legacy (this repo):** Full vault system, PARA + Zettelkasten, all-in-one approach  
+- **Current (Discord):** Modular components, faster performance, choose only what you need  
 
 The philosophy evolved from "here's everything" to "build exactly what you want."
 
